@@ -5,6 +5,9 @@ Email :- mrkaran2k5@gmail.com
 
 A full-stack web application for managing a sweet shop inventory with user authentication, product management, and purchase functionality.
 
+ - Live Link → https://karan-incubyte.vercel.app/
+ - Backend (If Needs for testing) → https://karan-incubyte-assign.onrender.com/health
+
 ### Screenshots
 
 ![banner](https://raw.githubusercontent.com/Karan-develops/Karan-Incubyte-Assign/refs/heads/main/a.png)
